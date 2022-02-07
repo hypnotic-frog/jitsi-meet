@@ -48,7 +48,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Lägg till en möteslänk",
-        "confirmAddLink": "Vill du lägga till en Jitsi-länk i händelsen?",
+        "confirmAddLink": "Vill du lägga till en Avantcloud-länk i händelsen?",
         "error": {
             "appConfiguration": "Kalenderintegrationen är inte rätt inställd.",
             "generic": "Ett fel har inträffat. Kontrollera dina kalenderinställningar eller uppdatera kalendern.",
@@ -408,7 +408,7 @@
         "answer": "Svara",
         "audioCallTitle": "Inkommande samtal",
         "decline": "Avvisa",
-        "productLabel": "från Jitsi Meet",
+        "productLabel": "från Avantcloud",
         "videoCallTitle": "Inkommande videosamtal"
     },
     "info": {
@@ -1159,7 +1159,7 @@
         "headerSubtitle": "Säkra- och högkvalitet möten",
         "headerTitle": "Jitisi Meet",
         "info": "Info",
-        "jitsiOnMobile": "Jitsi på mobilen - ladda ner våra appar och starta ett möte var som helst",
+        "jitsiOnMobile": "Avantcloud på mobilen - ladda ner våra appar och starta ett möte var som helst",
         "join": "Gå med",
         "logo": {
             "calendar": "Kalender logotyp",

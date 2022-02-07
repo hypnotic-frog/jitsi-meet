@@ -44,7 +44,7 @@
     },
     "calendarSync": {
         "addMeetingURL": "Добавить ссылку конференции",
-        "confirmAddLink": "Вы хотите добавить ссылку Jitsi к этому календарному событию?",
+        "confirmAddLink": "Вы хотите добавить ссылку Avantcloud к этому календарному событию?",
         "error": {
             "appConfiguration": "Неправильно настроена интеграция календаря.",
             "generic": "Произошла ошибка. Проверьте настройки календаря или попробуйте обновить его.",
@@ -359,7 +359,7 @@
         "answer": "Ответ",
         "audioCallTitle": "Входящий звонок",
         "decline": "Отклонить",
-        "productLabel": "из Jitsi Meet",
+        "productLabel": "из Avantcloud",
         "videoCallTitle": "Входящий видеозвонок"
     },
     "info": {
@@ -550,7 +550,7 @@
         "newDeviceAction": "Использовать",
         "newDeviceAudioTitle": "Обнаружено новое аудиоустройство",
         "newDeviceCameraTitle": "Обнаружена новая камера",
-        "oldElectronClientDescription1": "Похоже, вы используете старую версию клиента Jitsi Meet, которая имеет известные уязвимости в системе безопасности. Убедитесь, что вы обновили до нашей ",
+        "oldElectronClientDescription1": "Похоже, вы используете старую версию клиента Avantcloud, которая имеет известные уязвимости в системе безопасности. Убедитесь, что вы обновили до нашей ",
         "oldElectronClientDescription2": "последней версии",
         "oldElectronClientDescription3": " сейчас!",
         "passwordRemovedRemotely": "$t(lockRoomPasswordUppercase) удален другим участником.",
@@ -961,7 +961,7 @@
         "go": "ОК",
         "goSmall": "ОК",
         "headerSubtitle": "Защищенная высококачественная видеосвязь",
-        "headerTitle": "Сервер видеоконференцсвязи Jitsi Meet",
+        "headerTitle": "Сервер видеоконференцсвязи Avantcloud",
         "info": "Инфо",
         "join": "СОЗДАТЬ / ПРИСОЕДИНИТЬСЯ",
         "moderatedMessage": "Или заранее <a href=\"{{url}}\" rel=\"noopener noreferrer\" target=\"_blank\">зарезервируйте URL-адрес встречи</a>, где вы будете единственным модератором.",
