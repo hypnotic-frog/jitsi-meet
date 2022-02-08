@@ -477,7 +477,7 @@ var config = {
     // hideAddRoomButton: false,
 
     // Require users to always specify a display name.
-    // requireDisplayName: true,
+    requireDisplayName: true,
 
     // Whether to use a welcome page or not. In case it's false a random room
     // will be joined when no room is specified.
@@ -512,7 +512,7 @@ var config = {
     // hideDominantSpeakerBadge: false,
 
     // Default language for the user interface.
-    // defaultLanguage: 'en',
+    defaultLanguage: 'es',
 
     // Disables profile and the edit of all fields from the profile settings (display name and email)
     // disableProfile: false,

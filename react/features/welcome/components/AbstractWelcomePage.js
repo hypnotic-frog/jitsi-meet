@@ -78,7 +78,7 @@ export class AbstractWelcomePage<P: Props> extends Component<P, *> {
         insecureRoomName: false,
         joining: false,
         room: '',
-        roomPlaceholder: '',
+        roomPlaceholder: 'Inserte su código de cita',
         updateTimeoutId: undefined
     };
 

@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 
 # Uncomment this to turn on verbose mode.
-#export DH_VERBOSE=1
+export DH_VERBOSE=1
 
 LANGUAGES := $(shell node -p "Object.keys(require('./lang/languages.json')).join(' ')")
 COUNTRIES_DIR := node_modules/i18n-iso-countries/langs
